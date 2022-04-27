@@ -85,7 +85,7 @@ parse_mode='markdown')
                    [
                      InlineKeyboardButton(
                      text=f"اضغط هنا",
-                     url=f"http://t.me/A_l_i_1_21"
+                     url=f"http://t.me/DECSHELLbot"
                       )
                    ]
                  ]
